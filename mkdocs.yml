@@ -1,11 +1,12 @@
-site_name: Cybersecurity Notes
-site_description: "网络安全笔记与练习"
+site_name: Security Learning
+site_description: "网络安全学习笔记"
 site_author: "VIm-louie"
 
 nav:
-  - 首页: docs/index.md
-  - 入门: docs/basics.md
-  - 漏洞实践: docs/practice.md
+  - 首页: index.md
+  - 基础: basics.md
+  - 实战: practice.md
+  "docs/下"
 
 theme:
   name: material
