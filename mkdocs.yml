@@ -1,0 +1,15 @@
+site_name: Cybersecurity Notes
+site_description: "网络安全笔记与练习"
+site_author: "VIm-louie"
+
+nav:
+  - 首页: docs/index.md
+  - 入门: docs/basics.md
+  - 漏洞实践: docs/practice.md
+
+theme:
+  name: material
+  language: zh
+
+plugins:
+  - search
